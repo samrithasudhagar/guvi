@@ -1,6 +1,5 @@
 s=input()
-for i in range(0,len(s)):
-  if i=="a"or i=="e"or i=="o"ori=="u":
-    print(Vowel)
-  else:
-    print(Consonant)
+if s=="a"or s=="e"or s=="o"or s=="u":
+  print(Vowel)
+else:
+  print(Consonant)
