@@ -5,3 +5,4 @@ for i in range(1,6):
   l=l+str(s)+" "
 w=l.strip()
 print(w)
+#i
