@@ -1,5 +1,6 @@
 n=int(input())
 if n<60:
+  print("0",end=" ")
   print(n)
 else:
   r=n%60
