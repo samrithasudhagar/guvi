@@ -5,4 +5,4 @@ for i in range(0,len(l)):
 	sum=sum+l[i]
 avg=sum//n
 print(avg)
-#i
+#iee
