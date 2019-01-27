@@ -5,7 +5,7 @@ for  i in range(2,n):
 		break
 	else:
 		flag=1
-if flag==1:
+if flag==0:
 	print("yes")
 else:
 	print("no")
