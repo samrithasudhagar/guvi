@@ -3,7 +3,7 @@ l=[]
 for i in s:
 	l.append(s.count(i))
 if max(l)>1:
-	print("no")
+	print("No")
 else:
-	print("yes")
+	print("Yes")
   #i
