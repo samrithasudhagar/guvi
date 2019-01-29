@@ -1,2 +1,2 @@
 a=input()
-print(ord(a))4
+print(ord(a))
