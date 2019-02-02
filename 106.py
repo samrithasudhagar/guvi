@@ -1,8 +1,7 @@
 n,k=map(int,input().split())
 l=list(map(int,input().split()))
-c=0
-for i in range(1,len(l)):
-	c=c+1
-	if c==k and l[i]%2==1:
-			print(l[i])
-      #i
+l1=[]
+for i in range(0,len(l)):
+	if l[i]%2==1:
+		l1.append(l[i])
+print(l1[k-1])
